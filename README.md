@@ -2,3 +2,5 @@
 My first Github repository
 
 this line was modified manually during conflict 
+
+New line was added locally
